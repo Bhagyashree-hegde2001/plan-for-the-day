@@ -1,2 +1,3 @@
 # plan-for-the-day
-Created with CodeSandbox
+A simple Todo list made using React.js
+
